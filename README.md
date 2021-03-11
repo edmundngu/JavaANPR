@@ -12,7 +12,7 @@ JavaANPR is a number plate localization software which is introduced in [our tec
 
 ## Manual
 
-Please check [A170686_javaanpr System Manual.pdf](/A170686_javaanpr System Manual.pdf) for user manual.
+Please check [A170686_javaanpr System Manual.pdf](/A170686_javaanpr_System_Manual.pdf) for user manual.
 
 ## Data
 
