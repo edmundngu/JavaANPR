@@ -1,4 +1,4 @@
-# JavaANPR: AUTOMATIC NUMBER PLATE DETECTION OF VEHICLE IMAGES BASED ON EDGE DETECTION AND MORPHOLOGICAL APPROACH
+# JavaANPR: Automatic Number Plate Detection of Vehicle Images Based On Edge Detection and Morphological Approach
 
 By [Edmund Ngu](https://www.linkedin.com/in/edmund-ngu-jan-piew), Computer Science Undergraduate (Major in Intelligent Machine) from
 [Faculty of Information Science & Technology (FTSM)](http://www.ftsm.ukm.my/),<br>
